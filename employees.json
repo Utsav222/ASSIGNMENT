@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "utsav",
+    "role": "CEO",
+    "salary": 750000
+  },
+  {
+    "id": 2,
+    "name": "Aryan ",
+    "role": "sss",
+    "salary": 3333
+  },
+  {
+    "id": 3,
+    "name": "Sartak",
+    "role": "Staff",
+    "salary": 2500
+  }
+]
